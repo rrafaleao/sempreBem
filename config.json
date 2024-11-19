@@ -10,5 +10,13 @@
     "fr":{
         "greeting": "Bonjour, mond"
         "farewell": "au revoir"
+    },
+    "it":{
+        "greeting": "saluto"
+        "farewell": "arrivederci"
+    },
+    "holandes":{
+        "greeting": "groet"
+        "farewell": "tot ziens"
     }
 }
